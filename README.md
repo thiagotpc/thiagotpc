@@ -1,7 +1,7 @@
 ## Hi there 👋! I'm Thiago!
 
 - 🔭 I’m currently working as an IT Analyst at UTFPR Londrina, focusing on support, development, and IT management.
-- 🌱 I’m currently learning more about IA for Support Software Development, Data Science, and immersive UX.
+- 🌱 I’m currently learning more about AI for Support Software Development, Data Science, and immersive UX.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiagotpc) • [Twitter](https://twitter.com/thiagotpc)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started with MS-DOS/Novell/Win3.11, ICQ/Netscape/mIRC and Notepad — and I still love HTML!
